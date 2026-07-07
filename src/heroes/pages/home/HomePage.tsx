@@ -1,9 +1,3 @@
-import {
-  ChevronLeft,
-  ChevronRight,
-  MoreHorizontal,
-} from "lucide-react"
-import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { CustomJumbotron } from "@/components/custom/CustomJumbotron"
 import { HeroStats } from "@/heroes/components/HeroStats"

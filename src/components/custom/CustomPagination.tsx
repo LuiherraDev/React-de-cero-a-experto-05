@@ -1,5 +1,5 @@
 
-import { ChevronLeft, MoreHorizontal, ChevronRight } from "lucide-react"
+import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Button } from "../ui/button"
 
 interface Props {
