@@ -2,6 +2,7 @@ import { Badge } from "@/components/ui/badge"
 import { Heart, Trophy, Users, Zap } from "lucide-react"
 import { HeroStatCard } from "./HeroStatCard"
 
+
 export const HeroStats = () => {
   return (
     < div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8" >
